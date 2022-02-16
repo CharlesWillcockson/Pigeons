@@ -59,7 +59,9 @@ body{
 
 /* Style the back side */
 .flip-card-back {
+    background-color: grey;
     box-shadow: white;
     color: white;
     transform: rotateY(180deg);
+    text-align: center;
 }
